@@ -9,4 +9,4 @@ You can add categories and tags to organize your posts.
 
 Here's how to add an image:
 
-![Alt text](https://via.placeholder.com/150)
+![Alt text](https://placehold.co/600x400)
